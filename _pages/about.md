@@ -24,8 +24,9 @@ redirect_from:
   Computer Science Undergraduate | Researcher in NLP & ML Systems
 </p>
 <p>
-  Undergraduate student at Xiamen University, focusing on <strong>large language models (LLMs)</strong>. Currently engaged in research on model quantization, acceleration of embodied intelligence, and retrieval-augmented generation (RAG) systems for the legal domain, in collaboration with research teams from Xiamen University and Tsinghua University.
+  Undergraduate student at Xiamen University, focusing on large language models (LLMs). Currently engaged in research on <strong>model quantization</strong>, <strong>acceleration of embodied intelligence</strong>, and <strong>retrieval-augmented generation (RAG)</strong> systems for the <strong>legal domain</strong>, in collaboration with research teams from <strong>Xiamen University</strong> and <strong>Tsinghua University</strong>.
 </p>
+
 
 <div style="margin-top: 20px;">
   <h3 style="margin-bottom: 10px;">Contact Information</h3>
