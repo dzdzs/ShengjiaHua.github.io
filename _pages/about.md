@@ -30,7 +30,7 @@ redirect_from:
     <li>📱 <strong>Phone:</strong> +86 15359231563</li>
   </ul>
 </div>
-  </div>  <div class="profile-image" style="flex: 0 0 200px; margin-left: 40px;">    <!-- Profile photo placeholder -->    <img src="images/dzdzs.jpg" alt="Hua Shengjia" style="width: 100%; border-radius: 50%; border: 3px solid #0066cc;">  </div> </div> <div class="section-divider" style="border-top: 2px solid #eaeaea; margin: 30px 0;"></div>
+<!--   </div>  <div class="profile-image" style="flex: 0 0 200px; margin-left: 40px;">    <!-- Profile photo placeholder -->    <!--<img src="images/dzdzs.jpg" alt="Hua Shengjia" style="width: 100%; border-radius: 50%; border: 3px solid #0066cc;">-->   </div> </div> <div class="section-divider" style="border-top: 2px solid #eaeaea; margin: 30px 0;"></div> -->
 
 <span class='anchor' id='education'></span>
 ## 🎓 Education
