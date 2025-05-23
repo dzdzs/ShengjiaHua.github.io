@@ -26,7 +26,8 @@ redirect_from:
   <h3 style="margin-bottom: 10px;">Contact Information</h3>
   <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
     <li style="margin-bottom: 5px;">📧 <strong>Email:</strong>  huashengjia@stu.xmu.edu.cn</li>
-    <li>💬 <strong>WeChat:</strong> Esther0095</li>
+<!--     <li>💬 <strong>WeChat:</strong> Esther0095</li> -->
+    <li>📱 <strong>Phone:</strong> +86 15359231563</li>
   </ul>
 </div>
 <!--     <div style="margin-top: 20px;">
