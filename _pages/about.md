@@ -51,7 +51,7 @@ redirect_from:
       <h3 style="margin-top: 0;">Xiamen University</h3>
       <p><strong>School of Informatics</strong> - B.Eng. in Computer Science and Technology</p>
       <ul style="list-style-type: none; padding-left: 0;">
-        <li>📊 <strong>Overall GPA:</strong> 3.84/4.0 (Top 5%)</li>
+        <li>📊 <strong>Overall GPA:</strong> 3.8296/4.0 (Top 5%)</li>
         <li>🏆 <strong>Major Ranking:</strong> 6/124</li>
         <li>🌐 <strong>English Proficiency:</strong> CET-4 613, CET-6 599</li>
         <li>📚 <strong>Core Courses:</strong> Calculus II (100), Linear Algebra (99), Computer Graphics (99), Probability & Statistics (98), Convex Optimization (97), Digital Image Processing (96), Data Structures (95)</li>
