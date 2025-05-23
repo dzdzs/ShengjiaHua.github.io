@@ -30,21 +30,7 @@ redirect_from:
     <li>📱 <strong>Phone:</strong> +86 15359231563</li>
   </ul>
 </div>
-<!--     <div style="margin-top: 20px;">
-      <h3 style="margin-bottom: 10px;">Contact Information</h3>
-      <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
-        <li style="margin-bottom: 5px;">📧 <strong>Email:</strong> huashengjia@stu.xmu.edu.cn</li>
-        <li>📱 <strong>Phone:</strong> +86 15359231563</li>
-      </ul>
-    </div>
-  </div> -->
-  <div class="profile-image" style="flex: 0 0 200px; margin-left: 40px;">
-    <!-- Profile photo placeholder -->
-    <!-- <img src="images/profile.jpg" alt="Shengjia Hua" style="width: 100%; border-radius: 50%; border: 3px solid #0066cc;"> -->
-  </div>
-</div>
-
-<div class="section-divider" style="border-top: 2px solid #eaeaea; margin: 30px 0;"></div>
+  </div>  <div class="profile-image" style="flex: 0 0 200px; margin-left: 40px;">    <!-- Profile photo placeholder -->    <!-- <img src="images/profile.jpg" alt="Hua Shenglu" style="width: 100%; border-radius: 50%; border: 3px solid #0066cc;"> -->  </div> </div> <div class="section-divider" style="border-top: 2px solid #eaeaea; margin: 30px 0;"></div>
 
 <span class='anchor' id='education'></span>
 ## 🎓 Education
@@ -53,7 +39,7 @@ redirect_from:
   <div class="education-item" style="display: flex; margin-bottom: 30px; border-left: 4px solid #0066cc; padding-left: 15px;">
     <div style="flex: 1; margin-right: 20px;">
       <p style="font-weight: bold; color: #0066cc;">Sep 2022 - Present</p>
-      <!-- <img src="images/XMUlogo.png" alt="XMU Logo" style="max-width: 80px; margin-top: 10px;"> -->
+      <img src="images/XMUlogo.png" alt="XMU Logo" style="max-width: 80px; margin-top: 10px;">
     </div>
     <div style="flex: 3;">
       <h3 style="margin-top: 0;">Xiamen University</h3>
