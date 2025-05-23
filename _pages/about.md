@@ -20,8 +20,13 @@ redirect_from:
 <div class="profile-container" style="display: flex; align-items: flex-start; margin-bottom: 40px;">
   <div class="profile-content" style="flex: 1;">
     <h1 style="margin-top: 0;">Shengjia Hua</h1>
-    <p style="font-size: 1.2em; color: #555; margin-bottom: 15px;">Computer Science Undergraduate | AI & Legal NLP Researcher</p>
-    <p>Undergraduate student at Xiamen University, focusing on large language models, legal AI, and model optimization. Currently working on legal domain LLMs, model quantization, and diffusion policy acceleration with research groups from Xiamen University and Tsinghua University.</p>
+    <p style="font-size: 1.2em; color: #555; margin-bottom: 15px;">
+  Computer Science Undergraduate | Researcher in NLP & ML Systems
+</p>
+<p>
+  Undergraduate student at Xiamen University, focusing on <strong>large language models (LLMs)</strong>. Currently engaged in research on model quantization, acceleration of embodied intelligence, and retrieval-augmented generation (RAG) systems for the legal domain, in collaboration with research teams from Xiamen University and Tsinghua University.
+</p>
+
 <div style="margin-top: 20px;">
   <h3 style="margin-bottom: 10px;">Contact Information</h3>
   <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
@@ -79,12 +84,12 @@ redirect_from:
   <!-- Current Research 2 -->
   <div class="research-item" style="margin-bottom: 30px; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <div style="background-color: #f8f9fa; padding: 20px; position: relative;">
-      <span style="position: absolute; top: 15px; right: 15px; background-color: #4dabf7; color: white; padding: 5px 10px; border-radius: 15px; font-size: 0.8em;">Leading Project</span>
+      <span style="position: absolute; top: 15px; right: 15px; background-color: #4dabf7; color: white; padding: 5px 10px; border-radius: 15px; font-size: 0.8em;">Current Research</span>
       <h3>Model Lightweight & Acceleration Research</h3>
       <p style="color: #666;"><strong>Feb 2025 - Present | Tsinghua Shenzhen Int'l Graduate School (Prof. Zhi Wang)</strong></p>
       <div style="margin-top: 15px;">
         <ul style="padding-left: 20px; margin-top: 0;">
-          <li><strong>Principal Investigator</strong> of Tsinghua-Lenovo dNPU general model inference acceleration project (expecting first-author CCFA paper)</li>
+          <li><strong>Core Member</strong> of Tsinghua-Lenovo dNPU general model inference acceleration project (expecting first-author CCFA paper)</li>
           <li>Developed 2-4-8 mixed-precision quantization CUDA operators for SliM-LLM open-source project</li>
           <li>Built mixed-precision quantization framework and Triton operators for AutoAWQ open-source project</li>
           <li>Co-authored "Block-wise Adaptive Caching for Accelerating Diffusion Policy" (submitted to NIPS 2025)</li>
